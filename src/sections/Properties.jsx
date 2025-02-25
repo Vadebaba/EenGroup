@@ -71,13 +71,13 @@ const Properties = () => {
             <div className='px-6 py-3 flex flex-col justify-center items-start gap-2 w-full'>
               <h1 className='text-xl text-black font-semibold'> Awesome Properties for sale </h1>
               <h1 className='text-2xl text-red-600 font-bold'># 220,000,000</h1>
-              <p className=''>Beautiful, updated, ground level
+              <p className='text-[15px]'>Beautiful, updated, ground level
                 Co-op apartment in the middle of Abuja City
               </p>
               <div id='icons' className='flex justify-center items-start gap-4'>
                 <div className='flex justify-center items-center gap-2'>
                   <FaBath className='size-5 text-red-400' />
-                  <h1 className=''>3</h1>
+                  <h1 className='text-[15px]'>3</h1>
                 </div>
 
                 <div className='flex justify-center items-center gap-2'>
