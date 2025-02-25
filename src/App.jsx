@@ -1,5 +1,5 @@
 import Hero from './sections/Hero'
-import Header from './components/Header'
+//import Header from './components/Header'
 import About from './sections/About'
 import PopularArea from './sections/PopularArea'
 import Properties from './sections/Properties'
@@ -11,7 +11,7 @@ import Footer from './components/Footer'
 const App = () => {
   return (
     <>
-      <Header />
+      
       <Hero />
       <About />
       <PopularArea />
