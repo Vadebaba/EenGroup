@@ -77,17 +77,17 @@ const Properties = () => {
               <div id='icons' className='flex justify-center items-start gap-4'>
                 <div className='flex justify-center items-center gap-2'>
                   <FaBath className='size-5 text-red-400' />
-                  <h1 className='text-[15px]'>3</h1>
+                  <p className='text-[15px]'>3</p>
                 </div>
 
                 <div className='flex justify-center items-center gap-2'>
                   <FaBed className='size-5 text-red-400' />
-                  <h1 className=''>4</h1>
+                  <p className='text-[13px]'>4</p>
                 </div>
 
                 <div className='flex justify-center items-center gap-2'>
                   < MdSpaceDashboard className='size-5 text-red-400' />
-                  <h1 className=''>250 sq ft</h1>
+                  <p className='text-[13px]'>250 sq ft</p>
                 </div>
               </div>
 
