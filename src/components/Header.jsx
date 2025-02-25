@@ -65,7 +65,6 @@ const Header = () => {
           <FaPhoneAlt className="text-yellow-500 size-5" />
           <h1 className="text-black text-sm font-semibold lg:text-xl">+1 800 555 5555</h1>
         </div>
-        <FaUserCircle className="size-6 text-yellow-500" />
       </div>
     </nav>
   )
